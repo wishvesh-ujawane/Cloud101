@@ -5,7 +5,7 @@ const nextConfig = {
 
   // Optional: create folder-per-page (e.g. /about/index.html).
   // Useful for some static hosts — uncomment if you prefer folder pages.
-  // trailingSlash: true,
+  trailingSlash: true,
 
   // keep these existing settings
   typescript: {

@@ -42,7 +42,7 @@
         256,
         384
       ],
-      "path": "/_next/image",
+      "path": "/_next/image/",
       "loader": "default",
       "loaderFile": "",
       "domains": [],
@@ -77,7 +77,7 @@
     },
     "basePath": "",
     "sassOptions": {},
-    "trailingSlash": false,
+    "trailingSlash": true,
     "i18n": null,
     "productionBrowserSourceMaps": false,
     "excludeDefaultMomentLocales": true,
@@ -100,7 +100,7 @@
         "transform": "lodash/{{member}}"
       }
     },
-    "outputFileTracingRoot": "D:\\Clou101Academy\\Cloud101 Academy",
+    "outputFileTracingRoot": "D:\\Business\\Clou101Academy\\Cloud101 Academy",
     "cacheComponents": false,
     "cacheLife": {
       "default": {
@@ -290,11 +290,11 @@
     "bundlePagesRouterDependencies": false,
     "configFileName": "next.config.mjs",
     "turbopack": {
-      "root": "D:\\Clou101Academy\\Cloud101 Academy"
+      "root": "D:\\Business\\Clou101Academy\\Cloud101 Academy"
     },
     "distDirRoot": ".next"
   },
-  "appDir": "D:\\Clou101Academy\\Cloud101 Academy",
+  "appDir": "D:\\Business\\Clou101Academy\\Cloud101 Academy",
   "relativeAppDir": "",
   "files": [
     ".next\\routes-manifest.json",
