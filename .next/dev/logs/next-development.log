@@ -1,10 +1,30 @@
-[00:00:14.145] Server  LOG      ✓ Ready in 10.3s
-[00:00:17.272] Server  LOG      ○ Compiling / ...
-[00:00:34.411] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:34.837] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:34.837] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
-[00:00:34.837] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1766745707016}
-[00:00:40.925] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:41.333] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
-[00:00:41.333] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/privacy/","route":"/privacy/"}
-[00:00:41.333] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/privacy/ color: rgb(120, 120, 120) color: inherit {"dp":"/privacy/","o":"http://localhost:3000/privacy/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1766745713264}
+[00:00:21.583] Server  LOG      ✓ Ready in 11.9s
+[00:00:24.663] Server  LOG      ○ Compiling / ...
+[00:00:48.280] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:48.607] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:48.607] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:48.607] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1767371950249}
+[00:00:50.828] Server  ERROR   D:\Business\Clou101Academy\Cloud101 Academy\.next\dev\server\chunks\ssr\node_modules_next_dist_3b4d20e1._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:50.829] Server  ERROR   D:\Business\Clou101Academy\Cloud101 Academy\.next\dev\server\chunks\ssr\[root-of-the-server]__6748b84e._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:50.832] Server  WARN    Error: Route "/blog/[slug]" used `params.slug`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:00:50.847] Server  ERROR   D:\Business\Clou101Academy\Cloud101 Academy\.next\dev\server\chunks\ssr\[root-of-the-server]__6748b84e._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:50.849] Server  ERROR    ⨯ ReferenceError: returnd is not defined
+[00:00:52.089] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:52.244] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:52.244] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/blog/","route":"/blog/"}
+[00:00:52.244] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/blog/ color: rgb(120, 120, 120) color: inherit {"dp":"/blog/","o":"http://localhost:3000/blog/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1767371953876}
+[00:00:55.250] Server  ERROR   D:\Business\Clou101Academy\Cloud101 Academy\.next\dev\server\chunks\ssr\node_modules_next_dist_3b4d20e1._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:55.250] Server  ERROR   D:\Business\Clou101Academy\Cloud101 Academy\.next\dev\server\chunks\ssr\[root-of-the-server]__6748b84e._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:55.251] Server  WARN    Error: Route "/blog/[slug]" used `params.slug`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:00:55.261] Server  ERROR   D:\Business\Clou101Academy\Cloud101 Academy\.next\dev\server\chunks\ssr\[root-of-the-server]__6748b84e._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:55.261] Server  ERROR    ⨯ ReferenceError: returnd is not defined
+[00:00:55.440] Browser ERROR   uncaughtError: ReferenceError: returnd is not defined
+[00:01:20.271] Server  LOG      ✓ Compiled in 1886ms
+[00:01:22.512] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:22.677] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:01:22.677] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/blog/my-first-blog/","route":"/blog/[slug]/"}
+[00:01:22.677] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/blog/my-first-blog/ color: rgb(120, 120, 120) color: inherit {"dp":"/blog/[slug]/","o":"http://localhost:3000/blog/my-first-blog/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1767371984304}
+[00:01:49.013] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/blog/my-second-blog/ color: rgb(120, 120, 120) color: inherit {"dp":"/blog/[slug]/","o":"http://localhost:3000/blog/my-second-blog/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1767372010656}
+[00:01:51.514] Browser WARN    Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+[00:01:51.514] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/blog/ color: rgb(120, 120, 120) color: inherit {"dp":"/blog/","o":"http://localhost:3000/blog/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1767372013157}
+[00:01:53.537] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/blog/my-second-blog/ color: rgb(120, 120, 120) color: inherit {"dp":"/blog/[slug]/","o":"http://localhost:3000/blog/my-second-blog/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1767372015179}
