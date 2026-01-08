@@ -7,7 +7,7 @@ import { sanityClient } from "@/lib/sanity";
 import { PortableText } from "@portabletext/react";
 import Footer from "@/components/footer";
 import BlogHeader from "@/components/BlogHeader";
-
+export const dynamic = 'force-dynamic'
 
 /* ----------------------------------------
    HELPERS
